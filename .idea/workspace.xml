@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="66e2af68-aa05-4925-8406-a36532c96c02" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Day14Scope.java" afterPath="$PROJECT_DIR$/src/Day14Scope.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Day17MoreExceptions.java" afterPath="$PROJECT_DIR$/src/Day17MoreExceptions.java" />
     </list>
     <ignored path="Hackerrank-30-Days-of-Code.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -32,12 +32,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Day16ExceptionsStringtoInteger.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day16ExceptionsStringtoInteger.java">
+      <file leaf-file-name="Day17MoreExceptions.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day17MoreExceptions.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="14" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-              <folding />
+            <state relative-caret-position="131">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -77,10 +80,10 @@
         <option value="$PROJECT_DIR$/src/Day112DArrays.java" />
         <option value="$PROJECT_DIR$/src/Day12Inheritance.java" />
         <option value="$PROJECT_DIR$/src/Day13AbstractClasses.java" />
-        <option value="$PROJECT_DIR$/src/Day17MoreExceptions.java" />
         <option value="$PROJECT_DIR$/src/Day15LinkedList.java" />
         <option value="$PROJECT_DIR$/src/Day14Scope.java" />
         <option value="$PROJECT_DIR$/src/Day16ExceptionsStringtoInteger.java" />
+        <option value="$PROJECT_DIR$/src/Day17MoreExceptions.java" />
       </list>
     </option>
   </component>
@@ -163,6 +166,42 @@
             <PATH_ELEMENT>
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank-30-Days-of-Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank-30-Days-of-Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day17MoreExceptions.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank-30-Days-of-Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Hackerrank-30-Days-of-Code" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Day15LinkedList.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
@@ -727,12 +766,12 @@
       <workItem from="1469717941670" duration="7812000" />
       <workItem from="1469726065297" duration="761000" />
       <workItem from="1469728707354" duration="12296000" />
-      <workItem from="1469787252232" duration="17968000" />
+      <workItem from="1469787252232" duration="20236000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39361000" />
+    <option name="totallyTimeSpent" value="41629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
@@ -1128,17 +1167,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day17MoreExceptions.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day12Inheritance.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="96">
@@ -1199,8 +1227,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day15LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+        <state relative-caret-position="212">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="imports" expanded="true" />
@@ -1210,9 +1238,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Day16ExceptionsStringtoInteger.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="14" column="9" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="12" column="31" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day17MoreExceptions.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
